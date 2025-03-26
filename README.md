@@ -6,10 +6,6 @@ When you implement an Akka actor with UIGC, the middleware will
 automatically detect when the actor is safe to terminate and stop it for
 you. Say goodbye to memory leaks and buggy memory management code!
 
-> UIGC is currently a _research prototype_. We are actively looking for 
-> contributors of all skill levels to help bring it out of the research lab and into the real world! 
-> See [Contributing](#contributing) for details.
-
 ## Overview
 
 UIGC consists of two parts:
@@ -64,16 +60,7 @@ please raise a Github issue!
  
 ## Usage 
 
-
 For a guide to using UIGC, see [GUIDE.md](./GUIDE.md).
-
-## Contributing
-
-Working on UIGC is a great way to get involved in research and open source software!
-Start by following the [Installation](#installation) guide. Then check out
-the [issues page](https://github.com/dplyukhin/UIGC/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) 
-to find a starter project.
-Once you find a project, leave a comment to let us know you're working on it.
 
 ## License
 
