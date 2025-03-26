@@ -8,7 +8,7 @@ To use UIGC in your Akka Cluster project, add the following dependencies to `bui
 
 ```scala 
 libraryDependencies ++= Seq(
-    "edu.illinois.osl" %% "akka-gc" % "0.1.0-SNAPSHOT",
+    "edu.illinois.osl" %% "uigc" % "0.1.0-SNAPSHOT",
     "com.typesafe.akka" %% "akka-actor-typed" % akkaVersion,
     "com.typesafe.akka" %% "akka-cluster-typed" % akkaVersion,
     "ch.qos.logback" % "logback-classic" % "1.2.3",
